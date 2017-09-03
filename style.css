@@ -1,0 +1,11 @@
+body { background-color: #f2f7ff;}
+
+.result {
+  
+  background-color: #c5f9f3;
+  margin: 10px 0px 10px 0px;
+  padding: 3px;
+}
+a:link {
+    text-decoration: none;
+}
